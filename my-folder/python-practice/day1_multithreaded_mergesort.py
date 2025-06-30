@@ -36,7 +36,7 @@ def merge(left, right):
     return result
 
 
-# Test the function
+# Testing
 unsorted = [34, 7, 23, 32, 5, 62]
 sorted_list = merge_sort(unsorted)
 print("Sorted List:", sorted_list)

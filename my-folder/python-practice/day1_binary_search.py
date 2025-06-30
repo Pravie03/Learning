@@ -15,7 +15,7 @@ def binary_search(arr, target):
 
     return -1
 
-# Test the function
+# Testing
 arr = [10, 20, 30, 40, 50]
 target = 50
 result = binary_search(arr, target)
